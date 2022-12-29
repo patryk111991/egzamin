@@ -1,0 +1,54 @@
+body
+{
+	font-family: Georgia;
+}
+
+#baner-lewy, #baner-srodkowy
+{
+	background-color: #3CB371;
+	color: white;
+	height: 100px;
+	width: 40%;
+	float: left;
+}
+
+#baner-prawy
+{
+	background-color: #3CB371;
+	height: 100px;
+	width: 20%;
+	float: left;
+}
+
+#glowny
+{
+	clear: both;
+}
+
+#blok
+{
+	background-color: #FFDAB9;
+	width: 170px;
+	height: 90px;
+	border: 5px;
+	border-radius: 1px solid #3CB371;
+	float: left;
+	margin: 10px;
+}
+
+#stopka
+{
+	clear: both;
+	background-color: #3CB371;
+	color: white;
+}
+
+h6
+{
+	text-align: right;
+}
+
+form
+{
+	padding: 30px;
+}
