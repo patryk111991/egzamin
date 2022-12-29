@@ -1,0 +1,38 @@
+body
+{
+    font-family: Helvetica;
+}
+
+#baner, #stopka
+{
+    background-color: #AF4448;
+    color: white;
+    text-align: center;
+    height: 20px;
+}
+
+#lewy, #prawy
+{
+    background-color: #FFA4A2;
+    height: 650px;
+    width: 50%;
+    float: left;
+}
+
+#stopka
+{
+    clear: both;
+}
+
+h4
+{
+    padding: 0px;
+}
+
+button
+{
+    background-color: #AF4448;
+    color: white;
+    border: 5px;
+    padding: 10px;
+}
