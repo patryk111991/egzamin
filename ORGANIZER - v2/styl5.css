@@ -1,0 +1,49 @@
+body
+{
+    font-family: Arial;
+}
+
+#baner1
+{
+    background-color: #483D8B;
+    width: 30%;
+    height: 150px;
+    float: left;
+}
+
+#baner2
+{
+    background-color: #483D8B;
+    color: white;
+    height: 150px;
+    width: 70%;
+    float: left;
+}
+
+#glowny
+{
+    clear: both;
+}
+
+#blok
+{
+    background-color: #AFEEEE;
+    height: 100px;
+    width: 150px;
+    margin: 3px;
+    border: 1px solid;
+    float: left;
+}
+
+#stopka
+{
+    clear: both;
+    background-color: #483D8B;
+    color: white;
+    padding: 10px;
+}
+
+h5
+{
+    text-align: center;
+}
